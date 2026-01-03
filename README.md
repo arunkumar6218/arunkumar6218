@@ -1,77 +1,78 @@
-<h1 align="center">Hi, I'm Arunkumar M</h1>
-<h3 align="center">Full Stack Developer | UI/UX Designer</h3>
+<h1 align="center">Arunkumar M</h1>
+<h3 align="center">Full Stack Python Developer | Frontend-Focused | React Developer</h3>
 
 ---
 
-## Professional Summary
-Entry-level **Developer** with hands-on experience in building responsive, user-focused web applications using **Python, Django, React, JavaScript, HTML, CSS, and Bootstrap**. Strong understanding of **frontend development**, REST API integration, database management, and UI/UX principles. Completed internships and academic projects, eager to contribute to real-world software development teams and continuously enhance technical skills.
+## 🧠 Tech Stack Overview
 
----
-
-## Technical Skills
-
-### Programming Languages
-- Python
-- JavaScript
-
-### Frontend Technologies
-- HTML5
-- CSS3
-- Bootstrap
-- React.js
-
-### Backend Technologies
-- Django
-- Django REST Framework
-- RESTful APIs
-
-### Databases
-- MySQL
-- MongoDB
-- SQLite
-- PostgreSQL
-
-### Tools & Platforms
-- Git
-- GitHub
-- Visual Studio Code
-- Canva
-- Figma
-
----
-
-## Tech Stack (Visual)
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,mysql,mongodb,sqlite,git,github,vscode,canva,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🎨 UI / UX & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
 ---
 
-## Key Strengths
-- Full Stack Web Development (Frontend-focused)
-- Responsive & Mobile-First Design
-- REST API Development & Integration
-- Clean, Maintainable Code Practices
-- UI/UX Awareness
-- Version Control with Git & GitHub
-- Strong Problem-Solving & Learning Ability
+## 👨‍💻 Professional Summary
+Entry-level **Full Stack Python Developer** with strong focus on **frontend development** and hands-on experience building responsive, user-friendly web applications using **Python, Django, React, JavaScript, HTML, CSS, and Bootstrap**. Familiar with REST API development, database integration, and UI/UX design principles. Actively seeking a **junior software developer** role to contribute to real-world projects and grow in a collaborative development environment.
 
 ---
 
-## GitHub Activity
+## 💼 Technical Skills (ATS-Friendly)
+
+**Languages:** Python, JavaScript  
+**Frontend:** HTML5, CSS3, Bootstrap, React.js  
+**Backend:** Django, Django REST Framework  
+**Databases:** MySQL, MongoDB, SQLite  
+**Tools:** Git, GitHub, VS Code, Postman  
+**Design:** Figma, UI/UX fundamentals  
+
+---
+
+## 🔑 Core Competencies
+- Full Stack Web Application Development  
+- Responsive & Mobile-First UI Design  
+- RESTful API Integration  
+- Frontend Performance Optimization  
+- Clean & Maintainable Code  
+- Version Control with Git  
+- Strong Debugging & Problem-Solving Skills  
+
+---
+
+## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar6218&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar6218&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar6218&show_icons=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar6218" height="160"/>
 </p>
 
 ---
 
-## Contact & Profiles
+## 📫 Contact
 - 📧 Email: **arunkumarm6218@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/arunkumar-m-5777282b6
-- 📍 Location: Coimbatore, Tamil Nadu, India
+- 📍 Coimbatore, Tamil Nadu, India
 
 ---
 
-## Career Objective
-Seeking an **entry-level / junior software developer** role where I can apply my skills in **Python, Django, React, and frontend development**, gain exposure to production-level systems, and grow as a full stack developer while delivering value to the organization.
+## 🎯 Career Objective
+To secure an **entry-level / junior software developer** role where I can apply my skills in **Python, Django, React, and frontend development**, contribute to production-grade applications, and continuously improve my technical expertise.
