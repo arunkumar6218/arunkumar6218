@@ -1,57 +1,77 @@
-<h1 align="center">Hi there 👋 I'm Arunkumar</h1>
-<h3 align="center">Full Stack Python Developer | React Developer</h3>
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/gifs/code.gif">
+<h1 align="center">Hi, I'm Arunkumar M</h1>
+<h3 align="center">Full Stack Developer | UI/UX Designer</h3>
 
 ---
 
-### 👨‍💻 About Me  
-- 💼 Full Stack Python Developer  
-- 🌐 Experienced in Frontend & Backend Web Development  
-- 🚀 Skilled in building complete web applications using Django + React  
-- 📊 Passionate about REST APIs, Databases & Modern Web Solutions  
-- 🎨 UI/UX Designing enthusiast  
-- 📬 Reach me: **arunkumarm6218@gmail.com**
+## Professional Summary
+Entry-level **Developer** with hands-on experience in building responsive, user-focused web applications using **Python, Django, React, JavaScript, HTML, CSS, and Bootstrap**. Strong understanding of **frontend development**, REST API integration, database management, and UI/UX principles. Completed internships and academic projects, eager to contribute to real-world software development teams and continuously enhance technical skills.
 
 ---
 
-## 🛠️ Tech Stack  
-### **Languages & Frameworks I use**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,python,django,fastapi,mysql,mongodb,sqlite,html,css,bootstrap" />
+## Technical Skills
+
+### Programming Languages
+- Python
+- JavaScript
+
+### Frontend Technologies
+- HTML5
+- CSS3
+- Bootstrap
+- React.js
+
+### Backend Technologies
+- Django
+- Django REST Framework
+- RESTful APIs
+
+### Databases
+- MySQL
+- MongoDB
+- SQLite
+- PostgreSQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Visual Studio Code
+- Canva
+- Figma
+
+---
+
+## Tech Stack (Visual)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,mysql,mongodb,sqlite,git,github,vscode,canva,figma" />
 </p>
 
 ---
 
-## 🔧 Tools I Work With  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,canva" />
+## Key Strengths
+- Full Stack Web Development (Frontend-focused)
+- Responsive & Mobile-First Design
+- REST API Development & Integration
+- Clean, Maintainable Code Practices
+- UI/UX Awareness
+- Version Control with Git & GitHub
+- Strong Problem-Solving & Learning Ability
+
+---
+
+## GitHub Activity
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar6218&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar6218&theme=default" height="160"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arunkumar6218&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar6218&theme=tokyonight" />
-</p>
+## Contact & Profiles
+- 📧 Email: **arunkumarm6218@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/arunkumar-m-5777282b6
+- 📍 Location: Coimbatore, Tamil Nadu, India
 
 ---
 
-## 🚀 Featured Links  
-- 🌍 **Portfolio:** [arun-site-portfolio.netlify.app](https://arun-site-portfolio.netlify.app)  
-- 🧑‍💻 **GitHub:** [github.com/arunkumar6218](https://github.com/arunkumar6218)  
-- 💼 **LinkedIn:** [linkedin.com/in/arunkumarm6218](https://www.linkedin.com/in/arunkumarm6218)  
-
----
-
-## 📂 Highlighted Projects  
-- 🔹 **Smart Business Manager – Billing & Inventory System**  
-- 🔹 **Django + React Full Stack Applications**  
-- 🔹 **REST API Based Projects (CRUD, Auth, Tokens)**  
-- 🔹 **Responsive Frontend UI Projects**
-
----
-
-## 🌟 Support  
-⭐ *If you find my work useful, consider giving my repositories a star!*  
+## Career Objective
+Seeking an **entry-level / junior software developer** role where I can apply my skills in **Python, Django, React, and frontend development**, gain exposure to production-level systems, and grow as a full stack developer while delivering value to the organization.
