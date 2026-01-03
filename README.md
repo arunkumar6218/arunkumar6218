@@ -2,6 +2,17 @@
 <h3 align="center">Full Stack Python Developer | Frontend-Focused | React Developer</h3>
 
 ---
+## 🤓ABOUT ME
+
+- Entry-level **Full Stack Python Developer** with strong frontend focus  
+- Hands-on experience in building responsive web applications using **HTML, CSS, Bootstrap, JavaScript, React**  
+- Backend development experience with **Python, Django, and REST APIs**  
+- Familiar with database design and integration using **MySQL, MongoDB, and SQLite**  
+- Knowledge of **UI/UX principles** and experience designing interfaces using **Figma**  
+- Experience using **Git and GitHub** for version control and project collaboration  
+- Strong problem-solving skills with a passion for learning new technologies  
+- Actively seeking **Junior / Fresher Software Developer** opportunities
+
 
 ## 🧠 Tech Stack Overview
 
@@ -37,7 +48,7 @@ Entry-level **Full Stack Python Developer** with strong focus on **frontend deve
 
 ---
 
-## 💼 Technical Skills (ATS-Friendly)
+## 💼 Technical Skills
 
 **Languages:** Python, JavaScript  
 **Frontend:** HTML5, CSS3, Bootstrap, React.js  
@@ -59,18 +70,24 @@ Entry-level **Full Stack Python Developer** with strong focus on **frontend deve
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=arunkumar6218&show_icons=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar6218" height="160"/>
+## 📫 Connect With Me
+
+📧 Email: **arunkumarm6218@gmail.com**
+📍 Coimbatore, Tamil Nadu, India
+<p align="left">
+  <a href="https://www.linkedin.com/in/arunkumar-m-5777282b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://www.instagram.com/iamarunonline" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
----
-
-## 📫 Contact
-- 📧 Email: **arunkumarm6218@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/arunkumar-m-5777282b6
-- 📍 Coimbatore, Tamil Nadu, India
 
 ---
 
